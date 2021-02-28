@@ -1,0 +1,37 @@
+h1 {color:wheat;border: 1px solid royalblue;padding: 1px}
+
+
+h2 {color:wheat;border: 1px solid royalblue}
+
+h3 {color:wheat;border: 1px solid royalblue}
+
+
+h4{color:wheat;border: 1px solid royalblue}
+
+
+h5{color:wheat;border: 1px solid royalblue}
+
+
+h6{color:wheat;border: 1px solid royalblue}
+
+
+ul {
+color:white
+}
+a:link, a:visited {
+    background-color: wheat;
+    color:black;
+    padding: 1px 1px;
+    text-align: center;
+    display: inline-block;
+}
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    line-height: 25px;
+    color:white;
+    
+
+}
